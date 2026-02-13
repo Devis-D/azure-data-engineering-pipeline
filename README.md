@@ -162,7 +162,3 @@ azure-data-engineering-pipeline/
 | `INTECH-data-project-ADF` | Key Vault | Germany West Central |
 | `intechdatasynapse` | Storage Account (Synapse) | Germany West Central |
 
-## Author
-
-Devis Doci
-- GitHub: [@devisdoci00-lgtm](https://github.com/devisdoci00-lgtm)
