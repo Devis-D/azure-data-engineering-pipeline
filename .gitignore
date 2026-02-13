@@ -1,0 +1,16 @@
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+*.env.local
+
+# Compiled
+__pycache__/
+*.pyc

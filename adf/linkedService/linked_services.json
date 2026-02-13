@@ -1,0 +1,14 @@
+﻿[
+    {
+        "Name":  "AzureDataLakeStorageLinkedService"
+    },
+    {
+        "Name":  "AzureKeyVault1"
+    },
+    {
+        "Name":  "SqlServerOnPremLinkedinServer"
+    },
+    {
+        "Name":  "AzureDatabricks_LinkedService"
+    }
+]

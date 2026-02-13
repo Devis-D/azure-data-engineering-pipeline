@@ -1,0 +1,299 @@
+﻿[
+    {
+        "Name":  "SqlServerTable2",
+        "Structure":  null,
+        "Properties":  {
+                           "TableName":  null,
+                           "TypePropertiesSchema":  null,
+                           "Table":  null,
+                           "AdditionalProperties":  {
+                                                        "typeProperties":  [
+
+                                                                           ]
+                                                    },
+                           "Description":  null,
+                           "Structure":  null,
+                           "Schema":  [
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ],
+                                          [
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ],
+                                              [
+                                                  [
+
+                                                  ]
+                                              ]
+                                          ]
+                                      ],
+                           "LinkedServiceName":  {
+                                                     "ReferenceName":  "SqlServerOnPremLinkedinServer",
+                                                     "Parameters":  null
+                                                 },
+                           "Parameters":  null,
+                           "Annotations":  [
+
+                                           ],
+                           "Folder":  null
+                       },
+        "Id":  "/subscriptions/a38d3a0b-473b-4f12-aa89-daeaa668f7d7/resourceGroups/dataengineeringpro/providers/Microsoft.DataFactory/factories/INTECH-data-project-ADF/datasets/SqlServerTable2",
+        "ETag":  "b500d543-0000-1500-0000-69849ebb0000",
+        "ResourceGroupName":  "dataengineeringpro",
+        "DataFactoryName":  "INTECH-data-project-ADF"
+    },
+    {
+        "Name":  "SqlServerTable1",
+        "Structure":  null,
+        "Properties":  {
+                           "TableName":  null,
+                           "TypePropertiesSchema":  null,
+                           "Table":  null,
+                           "AdditionalProperties":  {
+                                                        "typeProperties":  [
+
+                                                                           ]
+                                                    },
+                           "Description":  null,
+                           "Structure":  null,
+                           "Schema":  [
+
+                                      ],
+                           "LinkedServiceName":  {
+                                                     "ReferenceName":  "SqlServerOnPremLinkedinServer",
+                                                     "Parameters":  null
+                                                 },
+                           "Parameters":  null,
+                           "Annotations":  [
+
+                                           ],
+                           "Folder":  null
+                       },
+        "Id":  "/subscriptions/a38d3a0b-473b-4f12-aa89-daeaa668f7d7/resourceGroups/dataengineeringpro/providers/Microsoft.DataFactory/factories/INTECH-data-project-ADF/datasets/SqlServerTable1",
+        "ETag":  "b500d943-0000-1500-0000-69849ebb0000",
+        "ResourceGroupName":  "dataengineeringpro",
+        "DataFactoryName":  "INTECH-data-project-ADF"
+    },
+    {
+        "Name":  "Parquet1",
+        "Structure":  null,
+        "Properties":  {
+                           "Location":  {
+                                            "FileSystem":  "bronze",
+                                            "AdditionalProperties":  {
+
+                                                                     },
+                                            "FolderPath":  [
+                                                               [
+                                                                   [
+
+                                                                   ]
+                                                               ],
+                                                               [
+                                                                   [
+
+                                                                   ]
+                                                               ]
+                                                           ],
+                                            "FileName":  [
+                                                             [
+                                                                 [
+
+                                                                 ]
+                                                             ],
+                                                             [
+                                                                 [
+
+                                                                 ]
+                                                             ]
+                                                         ]
+                                        },
+                           "CompressionCodec":  "snappy",
+                           "AdditionalProperties":  {
+                                                        "typeProperties":  [
+                                                                               [
+                                                                                   [
+                                                                                       [
+                                                                                           [
+
+                                                                                           ]
+                                                                                       ],
+                                                                                       [
+                                                                                           [
+
+                                                                                           ]
+                                                                                       ],
+                                                                                       [
+                                                                                           [
+                                                                                               [
+                                                                                                   [
+
+                                                                                                   ]
+                                                                                               ],
+                                                                                               [
+                                                                                                   [
+
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                                       ],
+                                                                                       [
+                                                                                           [
+                                                                                               [
+                                                                                                   [
+
+                                                                                                   ]
+                                                                                               ],
+                                                                                               [
+                                                                                                   [
+
+                                                                                                   ]
+                                                                                               ]
+                                                                                           ]
+                                                                                       ]
+                                                                                   ]
+                                                                               ],
+                                                                               [
+                                                                                   [
+
+                                                                                   ]
+                                                                               ]
+                                                                           ]
+                                                    },
+                           "Description":  null,
+                           "Structure":  null,
+                           "Schema":  null,
+                           "LinkedServiceName":  {
+                                                     "ReferenceName":  "AzureDataLakeStorageLinkedService",
+                                                     "Parameters":  null
+                                                 },
+                           "Parameters":  {
+                                              "pSchemaName":  {
+                                                                  "Type":  "String",
+                                                                  "DefaultValue":  null
+                                                              },
+                                              "pTableName":  {
+                                                                 "Type":  "String",
+                                                                 "DefaultValue":  null
+                                                             }
+                                          },
+                           "Annotations":  null,
+                           "Folder":  null
+                       },
+        "Id":  "/subscriptions/a38d3a0b-473b-4f12-aa89-daeaa668f7d7/resourceGroups/dataengineeringpro/providers/Microsoft.DataFactory/factories/INTECH-data-project-ADF/datasets/Parquet1",
+        "ETag":  "b70055bf-0000-1500-0000-6984b0430000",
+        "ResourceGroupName":  "dataengineeringpro",
+        "DataFactoryName":  "INTECH-data-project-ADF"
+    }
+]
